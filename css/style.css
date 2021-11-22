@@ -1,0 +1,21 @@
+
+    .main {width: 25% ;
+        height: 100%; 
+        float: left;
+        text-align: left;
+        background-color: rgb(168, 209, 245);
+        position: relative;
+    }
+    .title {
+        font-size: xx-large;
+    }
+    .img {
+        border-radius: 50%;
+    }
+        .main1 {width: 75%;
+            position: relative;
+            height: 100%;
+            float: right;
+            text-align: center;
+            background-color: rgb(202, 206, 209);
+        }
